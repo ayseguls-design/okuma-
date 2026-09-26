@@ -1,0 +1,19 @@
+{
+  "name": "Sınıfım Okuyor - Okuma Günlüğüm",
+  "short_name": "Okuma Günlüğüm",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f4f8",
+  "theme_color": "#0984e3",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
